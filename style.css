@@ -18,7 +18,7 @@ header {
 header > h1 {
   color: black;
   text-align: center;
-  text-shadow: 2px 2px rgb(70, 63, 70);
+  text-shadow: 2px 2px rgb(174, 102, 221);
 }
 
 .score-board {
@@ -55,7 +55,7 @@ header > h1 {
 }
 
 .result {
-  font-size: 30px;
+  font-size: 25px;
   color: white;
 }
 
@@ -89,18 +89,18 @@ header > h1 {
   color: white;
   font-weight: bold;
   margin-top: 20px;
-  font-size: 30px;
+  font-size: 25px;
   text-shadow: 2px 2px black;
 }
 
 footer {
   background-color: rgb(124, 33, 124);
   padding: 20px;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 footer > h2 {
   color: black;
   text-align: center;
-  text-shadow: 2px 2px rgb(70, 63, 70);
+  text-shadow: 1px 1px rgb(155, 69, 213);
 }
